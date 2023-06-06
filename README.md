@@ -52,3 +52,10 @@ tutorials.
 These walk you through the steps of performing the bioinformatics analyses yourself from raw fastqs.
 
 https://noamteyssier.github.io/howdoi/
+
+## My Github Page
+
+Alongside all of the above tools, I have plenty more on my github page that span from single-cell
+sequencing, drug discovery tools, to graph theory.
+
+https://github.com/noamteyssier/

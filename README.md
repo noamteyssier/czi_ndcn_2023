@@ -38,6 +38,13 @@ the differential abundance testing for sgRNAs and then calculate gene-level enri
 
 https://noamteyssier.github.io/crispr_screen/
 
+## `fxtools`
+
+Here is a link to a collection of fastq-related tools I've built that are useful for 
+functional genomics screens. 
+
+https://github.com/noamteyssier/fxtools
+
 ## `howdoi`
 
 If you are just starting with functional genomics screens I'm currently growing a collection of 
